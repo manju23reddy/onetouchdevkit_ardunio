@@ -12,4 +12,8 @@
 #define LOW_BAT_EN_PIN 5
 #define LED_PIN 0
 
+
+#define TEMP_SENSOR 0x48
+
+
 #endif
